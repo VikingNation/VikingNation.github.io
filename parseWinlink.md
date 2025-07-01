@@ -12,6 +12,6 @@ You can download the software at the following GitHub repository:
 
  
 ### Contact me
-[k3jsj@arrl.net](mailto:k3jsj@arrl.net)
+Jason Johnson &lt;[k3jsj@arrl.net](mailto:k3jsj@arrl.net)&gt;
 
   

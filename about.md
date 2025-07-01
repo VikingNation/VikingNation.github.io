@@ -17,4 +17,4 @@ I served as a coach/mentor for a community-based robotics team [FRC Team 6239 - 
 
 ### Contact me
 
-[k3jsj@arrl.net](mailto:k3jsj@arrl.net)
+Jason Johnson &lt;[k3jsj@arrl.net](mailto:k3jsj@arrl.net)&gt;
