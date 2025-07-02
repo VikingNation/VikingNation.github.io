@@ -1,8 +1,16 @@
 ---
 layout: page
-title: VarAc Wednesday Event
+title: VarAC Wednesday
 permalink: /varacWed/
 ---
+
+<h1>Documents</h1>
+<a href="/docs/2025/varacWed/VarAC_Wednesday_Instructions.pdf">VarAC Wednesday Instructions.pdf</a>
+
+<h1>Video Tutorials</h1>
+<ul>
+<li><a href="https://youtu.be/ezDjLdeTgMA">Using VarAC canned messages</a></li>
+</ul>
 
 <h1>Latest Posts</h1>
 
