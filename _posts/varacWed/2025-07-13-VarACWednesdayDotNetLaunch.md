@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "VarACWednesday.net official launch!"
-date: 2025-07-05
+date: 2025-07-13
 categories: [VarAC, Events, Ham Radio]
 tags: [VarAC, Wednesday, HamRadio, DigitalModes, Community, Challenge]
 ---
