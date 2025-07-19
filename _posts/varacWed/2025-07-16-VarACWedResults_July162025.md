@@ -6,7 +6,7 @@ categories: [VarAC, Events, Ham Radio]
 tags: [VarAC, Wednesday, HamRadio, DigitalModes, Community, Challenge]
 ---
 
-There were 88 check-ins
+There were 90 check-ins
 
 19 Stations used the ICS-213 format.
 
