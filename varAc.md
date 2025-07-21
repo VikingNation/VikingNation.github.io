@@ -12,7 +12,7 @@ permalink: /varacWed/
 <li><a href="https://www.varacwednesday.net/ttraining.html#voice-announcements">Voice Announcement Setup</a></li>
 <li><a href="https://www.varacwednesday.net/training.html#pskreporter">PSKReporter for VarAC</a></li>
 <li><a href="https://www.varacwednesday.net/ttraining.html#minimize-disconnects">Minimizing VarAC disconnects</a></li>
-<li><a href="https://www.varacwednesday.net/training.html#vara-meter">Setting VARA HF VU Meter"</a>i</li> 
+<li><a href="https://www.varacwednesday.net/training.html#vara-meter">Setting VARA HF VU Meter</a></li> 
 </ul>
 <h1>Video Tutorials</h1>
 <ul>
