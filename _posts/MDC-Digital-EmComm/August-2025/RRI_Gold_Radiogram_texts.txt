@@ -1,0 +1,16 @@
+Gold: Special "safe and well" texts. These correspond to the RRI-Winlink Radiogram Templates available on Winlink software.
+
+TWENTY SEVEN 		I am safe and well.
+TWENTY EIGHT 		Household safe and well.
+ TWENTY NINE 		Currently at shelter.
+ THIRTY 			Currently at home.
+ THIRTY ONE 		Currently at family/friend's house.
+ THIRTY TWO 		Currently at hotel.
+ THIRTY THREE 		Safe but moving to a safer location.
+ THIRTY FOUR 		Evacuating to a shelter.
+ THIRTY FIVE 		Evacuating to family member/friend's house.
+ THIRTY SIX 		Evacuating and safe.
+ THIRTY SEVEN 		At home and plan to remain here.
+ THIRTY EIGHT 		Will contact you when able.
+ THIRTY NINE 		All communications are down.
+ FORTY 			Share this message with others

@@ -1,0 +1,33 @@
+Instructions for using the RRI ICS-213 Radiogram Text Creator
+
+The RRI ICS-213 Radiogram Text Creator is designed to facilitate the transmission of ICS-213 messages in radiogram format. The text creator is based on the hard copy RRI Form 1701-ICS (ICS213 Compatible Radio-gram Message Form).
+
+The radiogram format is a standard message form used by commercial, government, military, and amateur radio services worldwide. It not only includes all essential ICS-213 accountability data, but also appends additional network management data designed to ensure that messages remain intact as they pass between various communications networks. The addition of network management data ensures that reply messages, requests for clarification and similar administrative replies can be routed via the correct network(s) to the operator or station with access to the appropriate public safety official or other point-of-contact. The ICS-213 variant includes some other information that is part of the ICS-213 form.
+
+Interoperability requires that one leverage all available communications assets to ensure maximum survivability and flexibility. By following these simple guidelines, one can promote interoperability in an elegant and simple manner.
+
+The purpose of the template is to provide a structured forms-based approach to producing a correctly formatted radiogram with a text output that appears in the Winlink Express New Message panel. The completed radiogram can then be sent to a Target (Winlink-RRI Liaison) Station. That station will then inject the radiogram into the traffic system at the appropriate level for routing to its destination.
+
+The ICS-213 radiogram has five primary sections. It only differs from the standard radiogram in that some additional information is requested. For example, Sender and Addressee Position (Title/Agency) are requested fields. Also, in accordance with the ICS-213 form’s layout, the sender’s information and optional subject are immediately after the addressee’s information. To avoid confusion, these areas are preceded by “TO” and “FROM” respectively in the text that appears in the Winlink Express New Message pane and in the transmitted text.
+
+The first section is the single line preamble. This includes the message number (assigned by the originating station); precedence (importance, i.e. Routine, Welfare, Priority, etc.); handling instructions for the delivering station (e.g. HXC is a request for delivery confirmation from the delivering station); originating station’s call sign; check (number of words/groups in the message body); place or origin; and time and date of origination. Use TEST W precedence in the Challenge.
+
+The second section is for the addressee’s name, position, address and contact information (telephone and/or email). It is very important to note that routing through the entire system is based on the addressee’s postal code, state and town The street address and phone number and other information are used by the delivering station. The deliverer is a human who can exercise different methods as might be appropriate to complete the last mile process of message delivery. This is especially important in disaster communications.
+
+The third section has fields for the sender’s name, position and the time that the form was generated. The time field here is free text so that the agency’s preferred DTG format can be used. There is also a field for the optional Subject text.
+
+The fourth section is the message body. This is enclosed between breaks (BT) in the transmitted text. For compatibility with all transmission modes, the radiogram uses upper case and a limited character set, as is true throughout the radiogram. The period character is interesting as there are several uses. A period at the end of a sentence becomes an X. A decimal point is R. ”.com” in an email address is “DOT COM.” Other substitutions include QUERY for the question mark, ATSIGN for @. The slant bar (slash) / is a permitted character. Telephone numbers are 10 digits - area code, exchange and number with no dashes. The Text Creator assists with all of this by making the substitutions for you.
+
+As a rule, scientific terms, specialized abbreviations, or other case-sensitive terminology should be spelled-out, particularly when case reflects a multiplier value. For example; “1008 MILLIBARS” is preferable to “1008 MB.” This method also improves accuracy. Remember, the radiogram-ICS213 message may need to be transferred to an amateur voice circuit, a public safety talk group, a military voice circuit, or a radiotelegraph network to achieve the last mile connectivity to the official or agency to which it is addressed. Therefore, brevity of message text should always be a priority.
+
+The fifth and final section consists of additional accountability information. These may be filled out by the originating and relay stations.
+
+Getting the Message into the Network:
+
+In this Challenge, you will need to get your message to a Target Station. RRI Liaison stations are listed as tactical addresses in the drop-down at the bottom of the form are not used in the Challenge. In a real world event, select the Liaison Region that is associated with the addressee's location.
+
+Saving the HTML Template:
+
+If you want to save or print a copy of the HTML input version of the template, you must do this from your browser before clicking “Submit.” Once submitted, the HTML version will disappear. At this point, only the inputted data from the template will be saved. This appears in the Winlink Express message pane.
+
+Questions or suggestions concerning this template or its use, may be submitted via Winlink to KB1TCE.
