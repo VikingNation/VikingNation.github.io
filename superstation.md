@@ -46,10 +46,10 @@ You can download the software at the following URL
       </td>
       <td></td>
 	<td>
-	<a href="https://downloads.k3jsj.net/qso_scorer-64bit-Nov22_2025.zip" 
+	<a href="https://downloads.k3jsj.net/qso_scorer-32bit-Nov22_2025.zip" 
 			 download 
 			 class="download-btn">
-		      ⬇️ QSO Scorer Nov 22 2025 Update (64-bit) 🆕
+		      ⬇️ QSO Scorer Nov 22 2025 Update (32-bit) 🆕
 		    </a>
 	      </td>
      </tr>
