@@ -6,6 +6,9 @@ permalink: /software
 
 The following are links to software I have created that are related to amateur radio:
 
+[Superstation]( {{ site.base-url }}/software/superstation)
+- Superstation is an extension to VarAC that allows you to build your virtual ham radio station while making contacts with operators around the world.
+
 [CS7000 Codeplug Converter]( {{ site.base-url }}/software/cs7000_codeplug_converter)
 - Application that converts Anytone 878UVII Plus codeplug into a format for import into the CS7000 M17 PLUS CPS
 
