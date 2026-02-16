@@ -18,3 +18,7 @@ I served as a coach/mentor for a community-based robotics team [FRC Team 6239 - 
 ### Contact me
 
 Jason Johnson &lt;[k3jsj@arrl.net](mailto:k3jsj@arrl.net)&gt;
+
+GNUPG Public Key: <a href="https://keyserver.ubuntu.com/pks/lookup?search=K3JSJ%40arrl.net&fingerprint=on&op=index">K3JSJ Public Key</a>
+
+
