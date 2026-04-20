@@ -6,7 +6,7 @@ permalink: /MdcEmcomm/
 
 <h1>Purpose</h1>
 <p>
-The ARRL MDC section runs a monthly digital challenge that provides operators the opportunity to gain experience usiing digital modes. The monthly digital challange is organized by Bill Smith (N3XL). Questions about the monthly ARRL MDC section digital challange should be directed to Bill via his email on <a href="https://www.qrz.com/db/N3XL" target="_blank" rel="noopener">N3XL's QRZ page</a>.
+The ARRL MDC section runs a monthly digital challenge that provides operators the opportunity to gain experience using digital modes. The monthly digital challange is organized by Bill Smith (N3XL). Questions about the monthly ARRL MDC section digital challange should be directed to Bill via his email on <a href="https://www.qrz.com/db/N3XL" target="_blank" rel="noopener">N3XL's QRZ page</a>.
 </p>
 
 <h1>Reference documents</h1>
