@@ -4,23 +4,18 @@ title: VarAC Wednesday
 permalink: /varacWed/
 ---
 
-<h1>Documents</h1>
-<ul>
-<li><a href="https://www.varacwednesday.net/about.html">VarAC Wednesday Instructions</a></li>
-<li><a href="https://www.varacwednesday.net/training.html#check-in-generator">Check-In Generator video walk-thru</a></li>
-<li><a href="https://www.varacwednesday.net/training.html#top10-tips">VarAC Top 10 for New Users</a></li>
-<li><a href="https://www.varacwednesday.net/ttraining.html#voice-announcements">Voice Announcement Setup</a></li>
-<li><a href="https://www.varacwednesday.net/training.html#pskreporter">PSKReporter for VarAC</a></li>
-<li><a href="https://www.varacwednesday.net/ttraining.html#minimize-disconnects">Minimizing VarAC disconnects</a></li>
-<li><a href="https://www.varacwednesday.net/training.html#vara-meter">Setting VARA HF VU Meter</a></li> 
-</ul>
-<h1>Video Tutorials</h1>
-<ul>
-<li><a href="https://youtu.be/Vu3j_ioLzhQ">VarAC Wednesday Check-in generator</a></li>
-<li><a href="https://youtu.be/ezDjLdeTgMA">Using VarAC canned messages</a></li>
-</ul>
+## Overview
+<a href="https://www.varacwednesday.net" target="_blank">VarAC Wednesday</a> is a weekly amateur radio digital net where users check-in by sending a message via a station providing EMAIL gateway service. We offer a number of <a href="https://www.varacwednesday.net/awards" target="_blank">Awards</a> to recognize special events and operator achievements. We also sponsor the <a href="https://www.varacwednesday.net/superstation" target="_blank">SUPERSTATION</a> game and contest. 
 
-<h1>Latest Posts</h1>
+## Latest News
+Check out our announcements on the <a href="https://www.varacwednesday.net/home/news" target="_blank">VarAC News page</a>
+
+## Weekly Results
+See our website for <a href="https://www.varacwednesday.net/varac-wednesday/results" target="_blank">Weekly Results</a> as well as our <a href="https://www.varacwednesday.net/varac-wednesday/map" target="_blank">Weekly Check-in map</a>
+
+
+## Historic Results
+Historic weekly results (May 7 2025 - July 23 2025) are posted here.  See our VarAC website for current news.
 
 <ul>
 {% assign filtered_posts = site.posts | where_exp: "post", "post.tags contains 'VarAC'" %}
