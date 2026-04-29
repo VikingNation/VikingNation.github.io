@@ -11,6 +11,6 @@ Mark (KB0US) and I (K3JSJ) are pleased to announce our article "<a href="https:/
 
 ![SWR Cover April 2026]({{ '/images/2026/superstation/Webpost_SWR_article.png' | relative_url }})
 
-In this article, Mark and Jason provide an overview of the SUPERSTATION game extension to VarAC, which encourages long.form QSOs. We also explain how SUPERSTATION works and highlight the winner of our SUPERSTATION I contest.In this article, Mark and Jason provide an overview of the SUPERSTATION game extension to VarAC, which encourages long.form QSOs. We also explain how SUPERSTATION works and highlight the winner of our SUPERSTATION I contest.
+In this article, Mark and Jason provide an overview of the SUPERSTATION game extension to VarAC, which encourages long.form QSOs. We also explain how SUPERSTATION works and highlight the winner of our SUPERSTATION I contest.
 
 ---
