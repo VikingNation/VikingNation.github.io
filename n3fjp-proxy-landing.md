@@ -15,6 +15,36 @@ N3FJP Proxy is a free Windows application that bridges **N3FJP Amateur Contact L
  <a href="https://downloads.k3jsj.net/n3fjp-proxy/n3fjp-proxy-1.0.0-beta.zip.sig">n3fjp-proxy-beta-1.0.0.zip.sig</a>  (Digital Signature)
 
 ---
+## Video Series
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe
+    src="https://www.youtube.com/embed/DwtwsuPWn-w"
+    title="Introducing N3FJP Proxy Part 1"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
+
+Check out “Introducing N3FJP Proxy Part 1” for an overview of integrating analog and digital operations. With N3FJP Proxy the frequency of your radio will be provided to N3FJP while you are operating digital applications.
+
+<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
+  <iframe
+    src="https://www.youtube.com/embed/BT4eOwWgOos"
+    title="Introducing N3FJP Proxy Part 2"
+    frameborder="0"
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+    allowfullscreen
+    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
+  </iframe>
+</div>
+
+Check out “Introducing N3FJP Proxy Part 2” for a live demo of the software setup and how the N3FJP Proxy provides information from your radio to N3FJP while operating digital applicaitons.
+
+
+---
 
 ## Screenshots
 
