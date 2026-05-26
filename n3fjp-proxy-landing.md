@@ -43,6 +43,13 @@ Check out “Introducing N3FJP Proxy Part 1” for an overview of integrating an
 
 Check out “Introducing N3FJP Proxy Part 2” for a live demo of the software setup and how the N3FJP Proxy provides information from your radio to N3FJP while operating digital applicaitons.
 
+---
+## Support request
+
+If you have a question or have a feature or bug report please use the following Google form
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdbSc06EE1WUObzECayfRRte3q-nRSqi2uRIJt0SdEFJI0T0g/viewform?usp=publish-editor" target="_blank">K3JSJ Software Support request form</a>
+
 
 ---
 

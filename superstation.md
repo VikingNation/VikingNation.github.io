@@ -120,4 +120,11 @@ The Superstation game manual is available in several languages at the links belo
   <li>Ivan (KP3IV) for the translation into Spanish</li>
 </ul>
 
+---
+## Support request
+If you have a question or have a feature or bug report please use the following Google form
+
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSdbSc06EE1WUObzECayfRRte3q-nRSqi2uRIJt0SdEFJI0T0g/viewform?usp=publish-editor" target="_blank">K3JSJ Software Support request form</a>
+
+
 
