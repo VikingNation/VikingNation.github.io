@@ -4,21 +4,29 @@ title: About
 permalink: /about/
 ---
 
-I am a licensed extra class radio operator and software developer.
+I am a licensed extra class ham radio operator, content creator, and software developer.
 
 ### More Information
+My interests include a wide range of digital communication modes, including VarAC, FT8, RTTY, Fldigi, FreeDV, and DMR, as well as Emergency Communications using WINLINK, VarAC, and Fldigi. I enjoy developing applications that support and enhance the amateur radio experience. You can find developed applications on my [Software page]( {{ site.url }}/software ). I enjoy making videos about ham radio and technology.  You can find my videos on my YouTube channel, [Ham Radio Community](https://www.youtube.com/@K3JSJ).
 
-My interests include digital communications modes (VaraC, FT8, RTTY, Fldigi, FreeDV, DMR) as well as Emergency Communications (WINLINK, VaraC, Fldigi). I enjoy developing tools and application related to ham radio. I am a member of [Bowie Wireless Association (K3BWA)](https://www.bowiewireless.org). I am also a member of Prince George's County ARES.
+I am an active member of the Bowie Wireless Association (K3BWA) and Prince George’s County ARES. From 2021 to 2025, I served as a coach and mentor for the community based robotics team <a href="https://theirrationalengineers.com/" target="_blank" >FRC Team 6239 - The Irrational Engineers</a>
 
-I enjoy teaching and helping others understand radio, programming, and technology. You can find my training videos on [Bowie Wireless Association's Training page](https://www.bowiewireless.org/learning) as well as my YouTube channel [Ham Radio Community](https://www.youtube.com/@K3JSJ).
+### Support my work
+If you enjoy my software, guides, or videos, your support helps me keep building for the ham radio community.
 
-I served as a coach/mentor for a community-based robotics team [FRC Team 6239 - The Irrational Engineers](https://theirrationalengineers.com/) from 2021-2025.
-
+<a href="https://www.buymeacoffee.com/k3jsj" target="_blank">
+  <img 
+    src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" 
+    alt="Buy Me A Coffee" 
+    style="height: 60px !important; width: 217px !important;" 
+  />
+</a>
 
 ### Contact me
 
 Jason Johnson &lt;[k3jsj@arrl.net](mailto:k3jsj@arrl.net)&gt;
 
-GNUPG Public Key: <a href="https://keyserver.ubuntu.com/pks/lookup?search=K3JSJ%40arrl.net&fingerprint=on&op=index">K3JSJ Public Key</a>
+GNUPG Public Key: <a href="https://keyserver.ubuntu.com/pks/lookup?search=K3JSJ%40arrl.net&fingerprint=on&op=index" target="_blank"
+ rel="noopener noreferrer">K3JSJ Public Key</a>
 
 
