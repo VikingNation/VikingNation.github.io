@@ -283,6 +283,62 @@ footer {
   text-align: center;
 }
 
+// Post layout helpers — use .post-image-right on a wrapper div to float an
+// image to the right alongside text, with a graceful mobile stack.
+.post-image-right {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin-bottom: 1em;
+
+  @include mobile {
+    flex-direction: column;
+  }
+}
+
+.post-image-right-text {
+  flex: 3;
+}
+
+.post-image-right-image {
+  flex: 1;
+  text-align: right;
+
+  @include mobile {
+    text-align: center;
+    width: 100%;
+  }
+}
+
+// Pagination controls on the home page
+.pagination {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 2em 0 1em;
+  font-family: $helveticaNeue;
+  font-size: 15px;
+
+  a, span {
+    padding: 6px 12px;
+    border: 1px solid $lightGray;
+    border-radius: 3px;
+    color: $blue;
+    text-decoration: none;
+  }
+
+  span.disabled {
+    color: $gray;
+    border-color: $lightGray;
+    cursor: default;
+  }
+
+  .page-number {
+    color: $gray;
+    border: none;
+  }
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";

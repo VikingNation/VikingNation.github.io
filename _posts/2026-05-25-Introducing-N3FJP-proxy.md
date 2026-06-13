@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Integrate digital and analog operations"
-categories: [software, n3fjp, flrig, hamradio]
+categories: [software, hamradio]
+tags: [software, n3fjp, flrig, digital-modes, ft8, varac, cat-control]
 author: Jason Johnson (K3JSJ)
 ---
 
