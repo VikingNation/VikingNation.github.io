@@ -4,21 +4,27 @@ layout: default
 
 <div class="posts">
   {% for post in site.posts %}
-  {% unless post.categories contains "mdc-emcomm-challenge" %}
-    <article class="post">
+    {% unless post.categories contains "mdc-emcomm-challenge" %}
+      {% assign postYear = post.date | date: "%Y" %}
+      {% if postYear == "2026" %}
+        <article class="post">
 
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+          <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
-      <div class="entry">
-        {{ post.excerpt }}
-      </div>
+          <div class="entry">
+            {% if post.excerpt != post.content %}
+              {{ post.excerpt }}
+            {% else %}
+              {{ post.content | strip_html | truncatewords: 75 }}
+            {% endif %}
+          </div>
+          </br>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
-    </article>
-  {% endunless %}
+          <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
+        </article>
+      {% endif %}
+    {% endunless %}
   {% endfor %}
 </div>
 
-<h3>Contact me</h3>
-Jason Johnson &lt;<a href="mailto:k3jsj@arrl.net">k3jsj@arrl.net</a>&gt;
-
+{% include contact.html %}

@@ -6,19 +6,19 @@ permalink: /software
 
 The following are links to software I have created that are related to amateur radio:
 
-[Superstation]( {{ site.base-url }}/software/superstation)
+[Superstation]( {{ site.baseurl }}/software/superstation)
 - Superstation is an extension to VarAC that allows you to build your virtual ham radio station while making contacts with operators around the world
 
-[N3FJP Proxy]( {{ site.base-url }}/software/n3fjp-proxy)
+[N3FJP Proxy]( {{ site.baseurl }}/software/n3fjp-proxy)
 - Application that enables N3FJP to control your radio via FLRIG
 
-[Anytone to CS7000 codeplug converter]( {{ site.base-url }}/software/cs7000_codeplug_converter)
+[Anytone to CS7000 codeplug converter]( {{ site.baseurl }}/software/cs7000_codeplug_converter)
 - Application that converts Anytone 878UVII Plus codeplug into a format for import into the CS7000 M17 PLUS CPS
 
-[parseWinlink]( {{ site.base-url }}/software/parseWinlink)
+[parseWinlink]( {{ site.baseurl }}/software/parseWinlink)
 - Python script that parses a Winlink log file to output connections and statistics into a CSV file for analysis
 
-[13ColoniesAdif]( {{ site.base-url }}/software/13ColoniesAdif)
+[13ColoniesAdif]( {{ site.baseurl }}/software/13ColoniesAdif)
 - Application that reads an ADIF from N3FJP and outputs a second ADIF only containing QSOs with 13 Colonies special event stations
 
 ---
@@ -31,5 +31,4 @@ If you have a question or have a feature or bug report please use the following 
 
 ---
  
-## Contact me
-Jason Johnson &lt;[k3jsj@arrl.net](mailto:k3jsj@arrl.net)&gt;
+{% include contact.html %}

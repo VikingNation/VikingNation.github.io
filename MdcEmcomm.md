@@ -34,5 +34,4 @@ The ARRL MDC section runs a monthly digital challenge that provides operators th
 {% endfor %}
 </ul>
 
-<h3>Contact me</h3>
-Jason Johnson &lt;<a href="mailto:k3jsj@arrl.net">k3jsj@arrl.net</a>&gt;
+{% include contact.html %}

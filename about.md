@@ -22,11 +22,4 @@ If you enjoy my software, guides, or videos, your support helps me keep building
   />
 </a>
 
-### Contact me
-
-Jason Johnson &lt;[k3jsj@arrl.net](mailto:k3jsj@arrl.net)&gt;
-
-GNUPG Public Key: <a href="https://keyserver.ubuntu.com/pks/lookup?search=K3JSJ%40arrl.net&fingerprint=on&op=index" target="_blank"
- rel="noopener noreferrer">K3JSJ Public Key</a>
-
-
+{% include contact.html %}
