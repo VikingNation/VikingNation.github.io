@@ -6,22 +6,22 @@ tags: [software, n3fjp, flrig, digital-modes, ft8, varac, cat-control]
 author: Jason Johnson (K3JSJ)
 ---
 
-## 🚀 Introducing the **N3FJP Proxy**  
+## ðŸš€ Introducing the **N3FJP Proxy**  
 A seamless way to integrate **analog and digital operations** using **FLRIG** and **N3FJP Logging Software**.
 
 The **N3FJP Proxy** solves one of the biggest headaches in the shack:  
 running **digital mode software** and **N3FJP** *at the same time* without CAT conflicts.
 
-This lightweight utility acts as a bridge between your radio and your N3FJP logger — keeping everything synchronized and stable.
+This lightweight utility acts as a bridge between your radio and your N3FJP logger â€” keeping everything synchronized and stable.
 
 ---
 
-## 🔧 What the N3FJP Proxy Does
+## ðŸ”§ What the N3FJP Proxy Does
 
-- Provides **real‑time CAT frequency and mode data** to N3FJP  
+- Provides **realâ€‘time CAT frequency and mode data** to N3FJP  
 - Works alongside **FLRIG** without CAT port conflicts  
 - Allows digital software (FT8, JS8Call, VarAC, FreeDV, FLDIGIT, etc.) to run simultaneously  
-- Supports **multi‑client CAT access**  
+- Supports **multiâ€‘client CAT access**  
 - Includes a clean, modern GUI with:
   - Status indicators  
   - Logging window  
@@ -31,18 +31,18 @@ This lightweight utility acts as a bridge between your radio and your N3FJP logg
 
 ---
 
-## 📥 Download the Software
+## ðŸ“¥ Download the Software
 
-👉 **N3FJP Proxy Download Page:**  
+ðŸ‘‰ **N3FJP Proxy Download Page:**  
 <a href="https://k3jsj.net/software/n3fjp-proxy">https://k3jsj.net/software/n3fjp-proxy</a>
 
 ---
 
-## 🎥 Video Walkthroughs
+## ðŸŽ¥ Video Walkthroughs
 
-### ** <a href="https://youtu.be/DwtwsuPWn-w">Part 1 – Overview & Architecture</a>**
+### ** <a href="https://youtu.be/DwtwsuPWn-w">Part 1 â€“ Overview & Architecture</a>**
 
-### ** <a href="https://youtu.be/BT4eOwWgOos">Part 2 – Live Demo & Full Setup Walkthrough</a>**  
+### ** <a href="https://youtu.be/BT4eOwWgOos">Part 2 â€“ Live Demo & Full Setup Walkthrough</a>**  
 
 ---
 

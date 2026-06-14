@@ -2,8 +2,8 @@
 layout: post
 title: "Results - VarAC Wednesday June 4, 2025"
 date: 2025-06-04
-categories: [VarAC, Events, Ham Radio]
-tags: [VarAC, Wednesday, HamRadio, DigitalModes, Community, Challenge]
+categories: [varac, events, hamradio]
+tags: [varac, wednesday, hamradio, digitalmodes, community, challenge]
 ---
 
 

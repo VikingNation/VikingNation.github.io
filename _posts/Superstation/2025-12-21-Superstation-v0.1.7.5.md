@@ -2,8 +2,8 @@
 layout: post
 title: Superstation Public Release
 date: 2025-12-21
-categories: [Software]
-tags: [Superstation, Software]
+categories: [software]
+tags: [superstation, software]
 ---
 
 I am pleased to announce the release of Superstation version v0.1.7.5!

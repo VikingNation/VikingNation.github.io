@@ -2,8 +2,8 @@
 layout: post
 title: "Results - VarAC Wednesday May 28, 2025"
 date: 2025-05-28
-categories: [VarAC, Events, Ham Radio]
-tags: [VarAC, Wednesday, HamRadio, DigitalModes, Community, Challenge]
+categories: [varac, events, hamradio]
+tags: [varac, wednesday, hamradio, digitalmodes, community, challenge]
 ---
 
 <em>There are 54 unique callsigns from the VarAC Wednesday Check-In.Unique Callsigns from VarAC Wednesday Check-In</em>

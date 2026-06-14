@@ -2,8 +2,8 @@
 layout: post
 title: "VarAC Wednesday May 7, 2025"
 date: 2025-05-06
-categories: [VarAC, Events, Ham Radio]
-tags: [VarAC, Wednesday, HamRadio, DigitalModes, Community, Challenge]
+categories: [varac, events, hamradio]
+tags: [varac, wednesday, hamradio, digitalmodes, community, challenge]
 ---
 
 
@@ -27,7 +27,7 @@ call sign, first name, city or town, county, state (HF or VHF, etc.)
 observation time, weather conditions, temperature <<<--- WEATHER ON SECOND LINE
 
 
-EXAMPLE 1: At 0934 local time, it is clear, sunny and 51°F. Winds are out of the NE at 10 mph.
+EXAMPLE 1: At 0934 local time, it is clear, sunny and 51Â°F. Winds are out of the NE at 10 mph.
 
 To: varacwednesday@gmail.com
 
@@ -40,7 +40,7 @@ WA8YNQ, Mark, Cincinnati, Hamilton, OH (HF)
 0934L, Clear, Sunny, 10mph NE, 51F
 
 
-EXAMPLE 2: At 1317 UTC, it is overcast with light rain, 10°C, wind from the SW at 5 km/h
+EXAMPLE 2: At 1317 UTC, it is overcast with light rain, 10Â°C, wind from the SW at 5 km/h
 
 To: varacwednesday@gmail.com
 

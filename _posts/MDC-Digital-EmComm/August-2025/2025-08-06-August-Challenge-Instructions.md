@@ -2,8 +2,8 @@
 layout: post
 title: Instructions - August 2025  MDC Digital EmComm Challenge
 date: 2025-08-06
-categories: [Vara]
-tags: [ARES, Vara]
+categories: [vara]
+tags: [ares, vara]
 ---
 
 ** This announcement may be forwarded to anyone interested in getting on the ARRL Maryland-DC (MDC) Section Winlink message distribution list and participation in MDC Digital emergency communications (EMCOMM) training activities. Interested parties should send a Winlink message request to MDCWINLINK-1 and they will be added to the distribution list. The information that you will need to participate in monthly Check-ins and Challenges will be sent out via Winlink messages. Challenge Announcements will be sent approximately 2 weeks before the Challenge. **

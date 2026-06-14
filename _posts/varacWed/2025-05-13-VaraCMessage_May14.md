@@ -2,8 +2,8 @@
 layout: post
 title: "VarAC Wednesday May 14, 2025"
 date: 2025-05-13
-categories: [VarAC, Events, Ham Radio]
-tags: [VarAC, Wednesday, HamRadio, DigitalModes, Community, Challenge]
+categories: [varac, events, hamradio]
+tags: [varac, wednesday, hamradio, digitalmodes, community, challenge]
 ---
 
 TOMORROW is VarAC Wednesday! Two lucky check-ins will receive VarAC caps with their call on the back. Previous winners are not eligible.

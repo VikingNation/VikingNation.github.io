@@ -2,7 +2,7 @@
 layout: post
 title: 13ColoniesAdif - N3FJP Log parser
 date: 2025-07-06
-categories: [Software]
+categories: [software]
 tags: [software, 13-colonies, special-event, adif, n3fjp]
 ---
 

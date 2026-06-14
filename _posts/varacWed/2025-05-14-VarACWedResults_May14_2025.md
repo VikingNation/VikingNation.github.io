@@ -2,8 +2,8 @@
 layout: post
 title: "Results - VarAC Wednesday May 14, 2025"
 date: 2025-05-14
-categories: [VarAC, Events, Ham Radio]
-tags: [VarAC, Wednesday, HamRadio, DigitalModes, Community, Challenge]
+categories: [varac, events, hamradio]
+tags: [varac, wednesday, hamradio, digitalmodes, community, challenge]
 ---
 
 There were 51 Check-ins:

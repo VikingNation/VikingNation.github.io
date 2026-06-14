@@ -2,7 +2,7 @@
 layout: post
 title: 13ColoniesAdif - version 1.0.1
 date: 2025-07-07
-categories: [Software]
+categories: [software]
 tags: [software, 13-colonies, special-event, adif, n3fjp]
 ---
 

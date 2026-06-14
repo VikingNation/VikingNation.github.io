@@ -2,8 +2,8 @@
 layout: post
 title: "VarAC Wednesday June 25, 2025"
 date: 2025-06-24
-categories: [VarAC, Events, Ham Radio]
-tags: [VarAC, Wednesday, HamRadio, DigitalModes, Community, Challenge]
+categories: [varac, events, hamradio]
+tags: [varac, wednesday, hamradio, digitalmodes, community, challenge]
 ---
 
 TOMORROW is VarAC Wednesday! No giveaways this week. Sorry!

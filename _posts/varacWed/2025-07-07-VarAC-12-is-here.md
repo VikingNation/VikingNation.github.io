@@ -2,8 +2,8 @@
 layout: post
 title: VarAC version 12.0 is here!
 date: 2025-07-07
-categories: [VarAC]
-tags: [VarAC]
+categories: [varac]
+tags: [varac]
 ---
 
 VarAC 12.0 was released on July 5th, 2025.  Version 12.0 is a major release with many new features which include: bi-directional email delivery, email alerts, shorter QSY invites, verbose GPS, and many more features.  See the VarAC version 12.0 release notes for the full description:

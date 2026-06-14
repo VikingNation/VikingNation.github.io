@@ -2,8 +2,8 @@
 layout: post
 title: "VarAC Wednesday July Challenge: 2^7"
 date: 2025-06-30
-categories: [VarAC, Events, Ham Radio]
-tags: [VarAC, Wednesday, HamRadio, DigitalModes, Community, Challenge]
+categories: [varac, events, hamradio]
+tags: [varac, wednesday, hamradio, digitalmodes, community, challenge]
 ---
 
 &#x1F4E1;<strong>THANK YOU</strong> for making <strong>VarAC Wednesday</strong> incredible! &#x1F389;

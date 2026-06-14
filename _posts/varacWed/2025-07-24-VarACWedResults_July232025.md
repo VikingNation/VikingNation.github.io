@@ -2,8 +2,8 @@
 layout: post
 title: "Results - VarAC Wednesday July 23, 2025"
 date: 2025-07-24
-categories: [VarAC, Events, Ham Radio]
-tags: [VarAC, Wednesday, HamRadio, DigitalModes, Community, Challenge]
+categories: [varac, events, hamradio]
+tags: [varac, wednesday, hamradio, digitalmodes, community, challenge]
 ---
 
 See <a href="https://www.varacwednesday.net/lastWeekResults.html">VarAC Last week results page</a> for check-in results

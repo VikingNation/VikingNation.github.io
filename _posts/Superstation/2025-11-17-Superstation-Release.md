@@ -2,8 +2,8 @@
 layout: post
 title: Superstation Public Release
 date: 2025-11-17
-categories: [Software]
-tags: [Superstation, Software]
+categories: [software]
+tags: [superstation, software]
 ---
 
 I am pleased to announce the public release of Superstation - a global ham radio game!

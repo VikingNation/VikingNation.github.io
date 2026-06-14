@@ -2,8 +2,8 @@
 layout: post
 title: "VarACWednesday.net official launch!"
 date: 2025-07-13
-categories: [VarAC, Events, Ham Radio]
-tags: [VarAC, Wednesday, HamRadio, DigitalModes, Community, Challenge]
+categories: [varac, events, hamradio]
+tags: [varac, wednesday, hamradio, digitalmodes, community, challenge]
 ---
 
 We are pleased to announce the offical launch of VarACWednesday.net 

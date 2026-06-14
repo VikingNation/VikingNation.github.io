@@ -2,8 +2,8 @@
 layout: post
 title: "VarAC Wednesday July 16, 2025"
 date: 2025-07-15
-categories: [VarAC, Events, Ham Radio]
-tags: [VarAC, Wednesday, HamRadio, DigitalModes, Community, Challenge]
+categories: [varac, events, hamradio]
+tags: [varac, wednesday, hamradio, digitalmodes, community, challenge]
 ---
 
 <b>Calling all VarAC operators ... Tomorrow is VarAC Wednesday!</b>
