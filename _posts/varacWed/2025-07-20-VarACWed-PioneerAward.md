@@ -6,7 +6,7 @@ categories: [varac, events, hamradio]
 tags: [varac, wednesday, hamradio, digitalmodes, community, challenge]
 ---
 
-The VarAC Wednesday team is proud to introduce the <b>VarAC Pioneer Award</b>â€”a mark of dedication, perseverance, and passion for digital comms excellence
+The VarAC Wednesday team is proud to introduce the <b>VarAC Pioneer Award</b> — a mark of dedication, perseverance, and passion for digital comms excellence
 
 Check out the details on the <a href="https://www.varacwednesday.net/pioneer-award.html">Pioneer Award page</a>.
 
