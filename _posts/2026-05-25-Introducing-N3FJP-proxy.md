@@ -6,22 +6,22 @@ tags: [software, n3fjp, flrig, digital-modes, ft8, varac, cat-control]
 author: Jason Johnson (K3JSJ)
 ---
 
-## ðŸš€ Introducing the **N3FJP Proxy**  
+## 🚀 Introducing the **N3FJP Proxy**
 A seamless way to integrate **analog and digital operations** using **FLRIG** and **N3FJP Logging Software**.
 
 The **N3FJP Proxy** solves one of the biggest headaches in the shack:  
 running **digital mode software** and **N3FJP** *at the same time* without CAT conflicts.
 
-This lightweight utility acts as a bridge between your radio and your N3FJP logger â€” keeping everything synchronized and stable.
+This lightweight utility acts as a bridge between your radio and your N3FJP logger — keeping everything synchronized and stable.
 
 ---
 
-## ðŸ”§ What the N3FJP Proxy Does
+## 🔧 What the N3FJP Proxy Does
 
-- Provides **realâ€‘time CAT frequency and mode data** to N3FJP  
+- Provides **real-time CAT frequency and mode data** to N3FJP  
 - Works alongside **FLRIG** without CAT port conflicts  
 - Allows digital software (FT8, JS8Call, VarAC, FreeDV, FLDIGIT, etc.) to run simultaneously  
-- Supports **multiâ€‘client CAT access**  
+- Supports **multi-client CAT access**  
 - Includes a clean, modern GUI with:
   - Status indicators  
   - Logging window  
@@ -31,21 +31,20 @@ This lightweight utility acts as a bridge between your radio and your N3FJP logg
 
 ---
 
-## ðŸ“¥ Download the Software
+## 🔥 Download the Software
 
-ðŸ‘‰ **N3FJP Proxy Download Page:**  
+👉 **N3FJP Proxy Download Page:**  
 <a href="https://k3jsj.net/software/n3fjp-proxy">https://k3jsj.net/software/n3fjp-proxy</a>
 
 ---
 
-## ðŸŽ¥ Video Walkthroughs
+## 🎥 Video Walkthroughs
 
-### ** <a href="https://youtu.be/DwtwsuPWn-w">Part 1 â€“ Overview & Architecture</a>**
+### **<a href="https://youtu.be/DwtwsuPWn-w">Part 1 — Overview & Architecture</a>**
 
-### ** <a href="https://youtu.be/BT4eOwWgOos">Part 2 â€“ Live Demo & Full Setup Walkthrough</a>**  
+### **<a href="https://youtu.be/BT4eOwWgOos">Part 2 — Live Demo & Full Setup Walkthrough</a>**
 
 ---
 
 If you're running N3FJP and digital modes together, the **N3FJP Proxy** will make your station workflow smoother, cleaner, and more reliable.  
 Give it a try and share your feedback!
-
