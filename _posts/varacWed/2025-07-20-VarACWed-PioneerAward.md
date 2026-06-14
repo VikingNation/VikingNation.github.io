@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Announcment - VarAC Wednesday Pioneer Award"
+title: "Announcement - VarAC Wednesday Pioneer Award"
 date: 2025-07-20
 categories: [varac, events, hamradio]
 tags: [varac, wednesday, hamradio, digitalmodes, community, challenge]

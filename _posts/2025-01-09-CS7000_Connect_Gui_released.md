@@ -1,6 +1,7 @@
 ---
 layout: post
 title: CS7000 Converter - Anytone codeplug converter
+date: 2025-01-09
 categories: [software]
 tags: [software, dmr, cs7000, codeplug, m17, anytone]
 author: Jason Johnson (K3JSJ)

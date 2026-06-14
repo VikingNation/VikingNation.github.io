@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Results - VarAC Wednesday July 16, 2025"
-date: 2025-07-18
+date: 2025-07-16
 categories: [varac, events, hamradio]
 tags: [varac, wednesday, hamradio, digitalmodes, community, challenge]
 ---

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "2026 Lewis and Clark Trail on the Air"
+date: 2026-06-13
 categories: [hamradio, ses]
 tags: [special-event, dx, lctota, hamalert, hunting]
 author: Jason Johnson (K3JSJ)

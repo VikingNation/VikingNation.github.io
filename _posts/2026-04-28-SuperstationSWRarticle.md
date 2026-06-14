@@ -2,7 +2,7 @@
 title: "Superstation featured in SWR magazine"
 layout: page
 permalink: /software/superstation/Swr_2026_article
-description: "Check out the artaicle about SUPERSTATION in the April 2026 edition of SWR magazine."
+description: "Check out the article about SUPERSTATION in the April 2026 edition of SWR magazine."
 ---
 
 

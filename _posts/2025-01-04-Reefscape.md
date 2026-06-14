@@ -1,6 +1,8 @@
 ---
 layout: post
 title: 2025 FRC Game reveal - Reefscape
+date: 2025-01-04
+categories: [robotics]
 tags: [robotics, frc, irrational-engineers]
 author: Jason Johnson (K3JSJ)
 ---
