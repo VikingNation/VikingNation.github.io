@@ -1,94 +1,76 @@
-#
-# This file contains configuration flags to customize your site
-#
+theme: jekyll-theme-chirpy
 
-# Name of your site (displayed in the header)
-name: Jason Johnson
+lang: en
+timezone: America/New_York
 
-# Short bio or description (displayed in the header)
-description: Ham Radio operator
+title: Jason Johnson
+tagline: Ham Radio Operator & Software Developer
+description: >-
+  K3JSJ — Extra class ham radio operator focused on digital modes,
+  emergency communications, and amateur radio software development.
 
-# URL of your avatar or profile pic (you could use your GitHub profile pic)
-#avatar: https://2.gravatar.com/avatar/6f055026a7385d5f0b64851600bcb265dabcf18b382a31c056f1aca583678e80?size=256
-avatar: https://2.gravatar.com/avatar/2c82b92b152098d1d888f6990486d99b?size=256
-#
-# Flags below are optional
-#
-
-# Includes an icon in the footer for each username you enter
-footer-links:
-  dribbble:
-  email: k3jsj@arrl.net
-  facebook:
-  flickr:
-  github: VikingNation
-  instagram:
-  linkedin:
-  pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: 
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: "@K3JSJ"
-  gnupgkey: "/images/K3JSJ_PUBLIC_KEY_256_by_256.png"
-
-# Enter your Disqus shortname (not your username) to enable commenting on posts
-# You can find your shortname on the Settings page of your Disqus account
-disqus:
-
-# Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics: G-L2RPMWZVFJ
-
-# Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
-# Used for Sitemap.xml and your RSS feed
-url: https://k3jsj.net
-
-# If you're hosting your site at a Project repository on GitHub pages
-# (http://yourusername.github.io/repository-name)
-# and NOT your User repository (http://yourusername.github.io)
-# then add in the baseurl here, like this: "/repository-name"
+url: "https://k3jsj.net"
 baseurl: ""
 
+github:
+  username: VikingNation
 
-#
-# !! You don't need to change any of the configuration flags below !!
-#
+social:
+  name: Jason Johnson
+  email: k3jsj@arrl.net
+  links:
+    - https://github.com/VikingNation
+    - https://www.youtube.com/@K3JSJ
+
+avatar: "https://2.gravatar.com/avatar/2c82b92b152098d1d888f6990486d99b?size=256"
+
+# Google Analytics
+google_analytics:
+  id: "G-L2RPMWZVFJ"
+
+# GoatCounter — injected via _includes/head.html
+goatcounter: k3jsj-net
+
+# Comments (leave active empty to disable)
+comments:
+  active: ""
+
+# Chirpy table of contents on posts
+toc: true
 
 permalink: /:title/
 
-# The release of Jekyll Now that you're using
-version: v1.2.0
+# Register _tabs/ as a collection so Chirpy sidebar tabs render at correct URLs
+collections:
+  tabs:
+    output: true
+    sort_by: order
 
-# Jekyll 3 now only supports Kramdown for Markdown
+defaults:
+  - scope:
+      path: ""
+      type: tabs
+    values:
+      layout: page
+      permalink: /:title/
+
 kramdown:
-  # Use GitHub flavored markdown, including triple backtick fenced code blocks
   input: GFM
-  # Jekyll 3 and GitHub Pages now only support rouge for syntax highlighting
   syntax_highlighter: rouge
   syntax_highlighter_opts:
-    # Use existing pygments syntax highlighting css
-    css_class: 'highlight'
+    css_class: "highlight"
 
-# Set the Sass partials directory, as we're using @imports
 sass:
-  style: :expanded # You might prefer to minify using :compressed
+  style: compressed
 
-# GoatCounter analytics site ID (the subdomain part of your goatcounter.com URL)
-goatcounter: k3jsj-net
-
-# Excerpt separator — add <!--more--> in a post to control where the excerpt ends
-excerpt_separator: "<!--more-->"
-
-# Use the following plug-ins
 plugins:
-  - jekyll-sitemap  # Create a sitemap using the official Jekyll sitemap gem
-  - jekyll-feed     # Create an Atom feed using the official Jekyll feed gem
-  - jekyll-seo-tag  # Adds SEO meta tags, Open Graph, and Twitter card support
-  - jekyll-paginate # Paginate the post list on the home page
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-paginate
 
 paginate: 10
-paginate_path: "/page:num/"
+paginate_path: /page:num/
 
-# Exclude these files from your production _site
 exclude:
   - Gemfile
   - Gemfile.lock
@@ -96,3 +78,5 @@ exclude:
   - README.md
   - CNAME
   - SITE_REVIEW.md
+  - node_modules
+  - "*.gemspec"

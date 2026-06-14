@@ -1,9 +1,14 @@
 source "https://rubygems.org"
 
-# Mirrors the exact gem versions used by GitHub Pages (Jekyll 3.10.0)
-gem "github-pages", group: :jekyll_plugins
+gem "jekyll-theme-chirpy", "~> 7.0"
 
-# Windows timezone and file-watching support
+# Chirpy bundles jekyll-feed and jekyll-seo-tag internally;
+# only add extras not already included in the theme.
+gem "jekyll-sitemap"
+gem "jekyll-seo-tag"
+gem "jekyll-paginate"
+
+# Windows support
 gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem "wdm", ">= 0.1.0", platforms: [:mingw, :mswin, :x64_mingw]
 gem "webrick"
