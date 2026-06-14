@@ -41,10 +41,13 @@ toc: true
 permalink: /:title/
 
 # Register _tabs/ as a collection so Chirpy sidebar tabs render at correct URLs
+# _pages/ holds standalone reference/landing pages (software docs, net pages, etc.)
 collections:
   tabs:
     output: true
     sort_by: order
+  pages:
+    output: true
 
 defaults:
   - scope:
@@ -53,6 +56,11 @@ defaults:
     values:
       layout: page
       permalink: /:title/
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: page
 
 kramdown:
   input: GFM
