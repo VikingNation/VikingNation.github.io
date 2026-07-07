@@ -30,14 +30,39 @@ You can download the software at the following URLs. Select the architecture ver
   <tbody>
     <tr>
       <td>
+        <a href="https://downloads.k3jsj.net/superstation/superstation-1.7.6.6-64bit.zip" download class="download-btn">
+        Superstation v1.7.6.6 (64-bit)
+        </a><br/>
+        <a href="https://downloads.k3jsj.net/superstation/superstation-1.7.6.6-64bit.zip.sig" download class="download-btn">
+        Superstation v1.7.6.6 (64-bit) digital signature
+        </a>
+      </td>
+      <td></td>
+      <td>
+       <a href="https://downloads.k3jsj.net/superstation/superstation-1.7.6.6-32bit.zip" download class="download-btn">
+        Superstation v1.7.6.6 (32-bit)
+        </a><br/>
+        <a href="https://downloads.k3jsj.net/superstation/superstation-1.7.6.6-32bit.zip.sig" download class="download-btn">
+        Superstation v1.7.6.6 (32-bit) digital signature
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
         <a href="https://downloads.k3jsj.net/superstation-0.1.7.5-64bit.zip" download class="download-btn">
           Superstation v0.1.7.5 (64-bit)
+        </a><br/>
+        <a href="https://downloads.k3jsj.net/superstation-0.1.7.5-64bit.zip.sig" download class="download-btn">
+          Superstation v0.1.7.5 (64-bit) digital signature
         </a>
       </td>
       <td></td>
       <td>
         <a href="https://downloads.k3jsj.net/superstation-0.1.7.5-32bit.zip" download class="download-btn">
           Superstation v0.1.7.5 (32-bit)
+        </a><br/>
+        <a href="https://downloads.k3jsj.net/superstation-0.1.7.5-32bit.zip.sig" download class="download-btn">
+          Superstation v0.1.7.5 (32-bit) digital signature
         </a>
       </td>
     </tr>
