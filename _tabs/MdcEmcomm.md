@@ -1,7 +1,7 @@
 ---
-layout: page
-title: MDC Emcomm Challenge
-permalink: /MdcEmcomm/
+icon: fas fa-bolt
+order: 3
+title: Mdc Emcomm
 ---
 
 <h1>Purpose</h1>
