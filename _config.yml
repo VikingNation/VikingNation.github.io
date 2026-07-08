@@ -24,12 +24,12 @@ social:
 
 avatar: "https://2.gravatar.com/avatar/2c82b92b152098d1d888f6990486d99b?size=256"
 
-# Google Analytics
-google_analytics:
-  id: "G-L2RPMWZVFJ"
-
-# GoatCounter — injected via _includes/head.html
-goatcounter: k3jsj-net
+# Web analytics (Chirpy native — see _includes/analytics/*.html in the theme)
+analytics:
+  google:
+    id: "G-L2RPMWZVFJ"
+  goatcounter:
+    id: "k3jsj-net"
 
 # Comments (leave active empty to disable)
 comments:
