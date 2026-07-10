@@ -188,10 +188,10 @@ Limited-availability stations (less than 6 continuous hours on frequency):
 |---|---|---|
 | KB3SPH | 40m, 7.066.000 MHz | 9 & 10 July, 1900–2000 |
 | KD2QAR* | 80m, 3.582.000 MHz | 11 July, 0700–0900 |
-| N3XL | 40m, 7.066.000 MHz | 11–12 July, 0900–1100 |
+| N3XL | 40m, 7.066.000 MHz | 11–12 July, 1900–2000 |
 | KG4K | 40m, 7.066.000 MHz | 11–12 July, 1100–1200 |
 
- Note:\* Updated 7/10 2155 UTC : Posted update to KD2QAR's schedule for Fldigi MFSK32
+ Note:\* Updated 7/10 2205 UTC : Posted update to KD2QAR's and N3XL's schedule for Fldigi MFSK32
 
 ---
 
