@@ -10,45 +10,18 @@ N3FJP Proxy is a free Windows application that bridges **N3FJP Amateur Contact L
 
 ## Download
 
- <a href="https://downloads.k3jsj.net/n3fjp-proxy/n3fjp-proxy-1.0.0-beta.zip">n3fjp-proxy-beta-1.0.0.zip</a> (MD5SUM: <code>9fc43f150cc20e81843f350d92bf97262f006b6beb268e65b9df3c025a078f33</code>
+Release Date: July 14, 2026
 
- <a href="https://downloads.k3jsj.net/n3fjp-proxy/n3fjp-proxy-1.0.0-beta.zip.sig">n3fjp-proxy-beta-1.0.0.zip.sig</a>  (Digital Signature)
+ <a href="https://downloads.k3jsj.net/n3fjp-proxy/n3fjp-proxy-1.0.1-64bit.zip">n3fjp-proxy-1.0.1-64bit.zip</a> (SHA256SUM: <code>3e58dc56d1b7da5f66c170432448094d007fd85e9864cbe33261d860471dfe67</code>)
 
----
-## Video Series
+ <a href="https://downloads.k3jsj.net/n3fjp-proxy/n3fjp-proxy-1.0.1-64bit.zip.sig">n3fjp-proxy-1.0.1-64bit.zip.sig</a>  (Digital Signature)
 
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
-  <iframe
-    src="https://www.youtube.com/embed/DwtwsuPWn-w"
-    title="Introducing N3FJP Proxy Part 1"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
-  </iframe>
-</div>
-
-Check out “Introducing N3FJP Proxy Part 1” for an overview of integrating analog and digital operations. With N3FJP Proxy the frequency of your radio will be provided to N3FJP while you are operating digital applications.
-
-<div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%;">
-  <iframe
-    src="https://www.youtube.com/embed/BT4eOwWgOos"
-    title="Introducing N3FJP Proxy Part 2"
-    frameborder="0"
-    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    allowfullscreen
-    style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;">
-  </iframe>
-</div>
-
-Check out “Introducing N3FJP Proxy Part 2” for a live demo of the software setup and how the N3FJP Proxy provides information from your radio to N3FJP while operating digital applicaitons.
+It is recommended to verify the sha256sum of the ZIP file. The author has also signed the zip file using his PGP key (K3JSJ@ARRLNET).
 
 ---
-## Support request
 
-If you have a question or have a feature or bug report please use the following Google form
-
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSdbSc06EE1WUObzECayfRRte3q-nRSqi2uRIJt0SdEFJI0T0g/viewform?usp=publish-editor" target="_blank">K3JSJ Software Support request form</a>
+## Installation
+Download the ZIP file and unzip into a folder in your Windows profile (e.g., Desktop\, or Downloads\). The application does not require admintrator rights and it should be executed using normal user permissions.
 
 
 ---
@@ -57,7 +30,16 @@ If you have a question or have a feature or bug report please use the following 
 
 ![N3FJP Proxy Main Window]({{ site.baseurl }}/images/2026/n3fjp-proxy/setup_proxy_02.png)
 
+Figure 1 - Main screen of N3FJP Proxy
+
+![N3FJP Proxy Config Window]({{ site.baseurl }}/images/2026/n3fjp-proxy/setup_proxy_01.png)
+
+Figure 2 - Configuration menu (File => Config)
+
+
 ---
+
+## Software Overview
 
 N3FJP Proxy sits between N3FJP Amateur Contact Log and FLRIG, translating the N3FJP API protocol into FLRIG XML-RPC commands. When you change frequency or mode in FLRIG, or other applications using FLRIG, N3FJP updates automatically — and vice versa.
 
@@ -71,6 +53,16 @@ N3FJP Proxy sits between N3FJP Amateur Contact Log and FLRIG, translating the N3
 - Accessible font size controls (A+ / A−) for comfortable reading
 - Saves window position across monitors and sessions
 - Detailed log viewer with filter and export
+
+** Updates 1.0.1 **
+- TX Power now updates live in N3FJP's QSO entry screen (previously never worked - required a new connection into N3FJP's own API)
+- Detect Settings - one-click auto-detect of IP/Port and installed apps, with guided setup
+- App Launcher - auto-start/stop FLRIG, N3FJP, WSJT-X, Fldigi, VarAC, and FreeDV alongside the proxy
+- Frequency Config editor with ARRL band-plan auto-populate
+- Background/manual software update checker (this notice!)
+- Separate status indicators for N3FJP Rig vs. N3FJP API connections
+- Live power/frequency/mode display, N3FJP program name and version shown
+- Accessibility improvements: keyboard navigation, contrast, colorblind-friendly status indicators, adjustable text size
 
 ---
 
@@ -87,21 +79,7 @@ N3FJP Proxy sits between N3FJP Amateur Contact Log and FLRIG, translating the N3
 
 ## Quick Setup
 
-N3FJP Proxy includes a built-in setup guide (View → Setup Instructions). The short version:
-
-1. **FLRIG** — Enable the XML-RPC server at port **12345**
-   *(Config → Setup → Server)*
-
-2. **N3FJP** — Set the rig interface to **N3FJP API** at port **11000**
-   *(Settings → Rig Interface)*
-
-3. **N3FJP Proxy** — Set IP address of FLRIG (127.0.0.1 or remote IP), Set FLRIG port to **12345**, Proxy port to **11000**
-   *(File → Config)*
-
-4. Click **Start Proxy**, then click **Test** in N3FJP — your radio's
-   frequency and mode should appear.
-
-See note below about Firewall & Antivirus
+N3FJP Proxy includes a built-in setup guide (View → Setup Instructions).
 
 ---
 
@@ -110,9 +88,12 @@ See note below about Firewall & Antivirus
 The download includes:
 
 - `n3fjp-proxy.exe` — Application executable
-- `n3fjp-proxy.exe.sig` - Digital signature of the n3fjp-proxy.exe
+- `n3fjp-proxy.exe.sig` — Digital signature of application
 - `README.txt` — Version, setup summary, and file integrity information
 - `DISCLAIMER.TXT` — Full terms of use
+- `sha256sum.txt`  — SHA256SUM of n3fjp-proxy.exe
+- `docs\user-guide.html` - Full user guide
+- `docs\images` - Folder containing images from user guide
 
 ---
 
@@ -138,6 +119,22 @@ N3FJP Proxy includes the following open source library:
 
 In accordance with the LGPLv3, you may obtain the pystray source code at the link above and recompile or relink it with this application if desired.
 
+It also includes the following permissively-licensed open source libraries (no source disclosure required):
+
+| Library | Purpose | License |
+|---|---|---|
+| [ttkbootstrap](https://github.com/israel-dryer/ttkbootstrap) | Themed widgets for tkinter | MIT AND (Apache-2.0 OR BSD-2-Clause) |
+| [Pillow](https://python-pillow.github.io) | Image handling | MIT-CMU |
+| [psutil](https://github.com/giampaolo/psutil) | Process and system utilities | BSD-3-Clause |
+| [PGPy](https://github.com/SecurityInnovation/PGPy) | Registration-file signature verification | BSD-3-Clause |
+| [cryptography](https://github.com/pyca/cryptography) | Cryptographic primitives (used by PGPy) | Apache-2.0 OR BSD-3-Clause |
+| [pyasn1](https://github.com/pyasn1/pyasn1) | ASN.1 encoding/decoding (used by PGPy) | BSD-2-Clause |
+| [cffi](https://github.com/python-cffi/cffi) | Foreign function interface (used by cryptography) | MIT |
+| [pycparser](https://github.com/eliben/pycparser) | C parser in Python (used by cffi) | BSD-3-Clause |
+| [pyperclip](https://github.com/asweigart/pyperclip) | Clipboard access | BSD |
+| [truststore](https://github.com/sethmlarson/truststore) | Native OS certificate trust store verification | MIT |
+| [six](https://github.com/benjaminp/six) | Python 2/3 compatibility shim (used by pystray) | MIT |
+
 ---
 
 ## Disclaimer
@@ -147,5 +144,10 @@ with or endorsed by Scott Davis (N3FJP) or Dave Freese (W1HKJ / FLRIG).
 See `DISCLAIMER.TXT` for full terms.
 
 ---
+
 ## Contact me
 Jason Johnson &lt;[k3jsj@arrl.net](mailto:k3jsj@arrl.net)&gt;
+
+---
+
+*Copyright 2026 Jason Johnson (K3JSJ) — All rights reserved*
