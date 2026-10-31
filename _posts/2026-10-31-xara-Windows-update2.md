@@ -1,0 +1,22 @@
+---
+layout: post
+title: "Update: Xara Modem Running on Windows"
+date: 2026-10-31 12:00:00 -0400
+categories: [software]
+tags: [software, xara, varac, flrig, ic-7300]
+---
+
+I have published a new YouTube video demonstrating Xara running on Windows with VarAC on 40 meters using my IC-7300. Watch it here: <a href="https://youtu.be/JTrr5qSqTOc" target="_blank" rel="noopener noreferrer">Xara on Windows with VarAC on 40 meters</a>.
+
+![Xara configuration tool on Windows]({{ '/images/2026/xara/xara-config-gui.png' | relative_url }})
+_The Xara configuration tool on Windows, set up for PTT control through FLRig._
+
+## Project Status
+
+- **Windows support:** I have heard back from the Xara developer, who does not plan to support Windows.
+- **FLRig support:** I am preparing a patch to contribute FLRig support to the mainline Xara code.
+- **Windows version:** I have a working version of Xara for Windows, but I am still weighing whether to release the code.
+
+## Stay Informed
+
+Please <a href="https://www.youtube.com/@K3JSJ" target="_blank" rel="noopener noreferrer">subscribe to my YouTube channel</a> for future videos on Xara and any announcement about a potential Windows version of the modem.
