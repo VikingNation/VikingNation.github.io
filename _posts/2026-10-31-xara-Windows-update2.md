@@ -13,10 +13,8 @@ _The Xara configuration tool on Windows, set up for PTT control through FLRig._
 
 ## Project Status
 
-- **Windows support:** I have heard back from the Xara developer, who does not plan to support Windows.
-- **FLRig support:** I am preparing a patch to contribute FLRig support to the mainline Xara code.
-- **Windows version:** I have a working version of Xara for Windows, but I am still weighing whether to release the code.
+- **Xara Windows support:** I have heard back from the Xara developer, who does not plan to support Windows.
 
 ## Stay Informed
 
-Please <a href="https://www.youtube.com/@K3JSJ" target="_blank" rel="noopener noreferrer">subscribe to my YouTube channel</a> for future videos on Xara and any announcement about a potential Windows version of the modem.
+Please <a href="https://www.youtube.com/@K3JSJ" target="_blank" rel="noopener noreferrer">subscribe to my YouTube channel</a> for future videos on Xara and other ham radio related topics.
