@@ -10,6 +10,12 @@ description: "VARA HF 4.9.1 and VARA FM 4.4.1 were released on November 4, 2026 
 **BLUF:** On **November 4, 2026**, VARA HF (4.9.1) and VARA FM (4.4.1) were released with no information about what changed. The VARA HF/FM modems currently work with past revisions, but on **January 1, 2027** the modem will no longer work with past revisions unless users upgrade. There is speculation this release has to do with the open source release of the XARA Modem.
 {: .prompt-warning }
 
+I covered this topic in a YouTube video:
+
+{% include embed/youtube.html id='k6nM-s64TcI' %}
+
+<a href="https://youtu.be/k6nM-s64TcI" target="_blank" rel="noopener noreferrer">Watch on YouTube: VARA breaks compatibility on January 1, 2027</a>
+
 Here is a full analysis of past times when VARA releases broke compatibility.
 
 ## VARA past compatibility breaks: timelines and sources
