@@ -18,6 +18,9 @@ The following are links to software I have created that are related to amateur r
 [Anytone to CS7000 codeplug converter]({{ site.baseurl }}/software/cs7000_codeplug_converter)
 - Application that converts Anytone 878UVII Plus codeplug into a format for import into the CS7000 M17 PLUS CPS
 
+[Mercury Ascending]({{ site.baseurl }}/software/mercury-ascending)
+- Open source Windows tool that installs the Mercury HF modem and configures VarAC to use it
+
 
 ---
 
