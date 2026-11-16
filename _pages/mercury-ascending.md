@@ -4,6 +4,23 @@ title: Mercury Ascending
 permalink: /software/mercury-ascending
 ---
 
+> **DISCLAIMER:** This is beta software to help configure Mercury and VarAC for
+> testing with the Mercury modem.
+
+**Early observations from November 16 at 0130 UTC:**
+
+- **BUSY INDICATOR:** VarAC's BUSY indicator does not show as active when Mercury
+  is on frequency and someone is transmitting. Testing is needed to find out whether
+  1) the modem is not detecting the busy channel, or 2) the modem is not passing the
+  BUSY condition to VarAC.
+- **CALLING STATION:** The VARA modem normally tries 15 times and, if it does not
+  connect, sends a CW ID. The Mercury modem does not give up on connecting to the
+  station, and VarAC thinks it is still trying to connect.
+- **STANDALONE CLIENT:** With VarAC closed, I used the Mercury client. I had to set
+  up CAT to use Hamlib, COM3 and IC-7300. PTT worked and audio went out.
+
+---
+
 ![Mercury Ascending animated title]({{ site.baseurl }}/images/2026/mercury-ascending/mercury-ascending.gif)
 
 **Mercury Ascending Installer** is a free, open source Windows tool that sets up the
