@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 500" width="900" height="500" role="img" aria-labelledby="t d" font-family="system-ui, -apple-system, Segoe UI, sans-serif">
+<title id="t">Mercury data speed versus true SNR</title>
+<desc id="d">Each marker is the data speed Mercury used in one loopback test run, per direction, plotted against the measured SNR in 2.5 kHz. 321 BPS down to about +3 dB; robust 68 and 87 BPS at about +1 to +2 dB; 31 BPS from about -4 to -13 dB; below about -13 dB the call is not detected.</desc>
+<style>
+.s{fill:#fcfcfb}.tp{fill:#0b0b0b}.ts{fill:#52514e}.tm{fill:#7a7975}.g{stroke:#e4e3df}.ax{stroke:#c9c8c3}
+.edge{fill:#52514e;fill-opacity:.07}.c1{fill:#2a78d6}.c2{fill:#eb6834}.ring{stroke:#fcfcfb}.ann{stroke:#7a7975}
+@media (prefers-color-scheme: dark){
+.s{fill:#1a1a19}.tp{fill:#f0efec}.ts{fill:#c3c2b7}.tm{fill:#9a998f}.g{stroke:#2e2e2c}.ax{stroke:#4a4946}
+.edge{fill:#c3c2b7;fill-opacity:.08}.c1{fill:#3987e5}.c2{fill:#d95926}.ring{stroke:#1a1a19}.ann{stroke:#9a998f}}
+</style>
+<rect class="s" width="900" height="500" rx="8"/>
+<text class="tp" x="24" y="34" font-size="18" font-weight="600">Mercury data speed vs. true SNR</text>
+<text class="ts" x="24" y="56" font-size="13">VarAC + Mercury loopback, 2026-11-17. SNR measured in 2.5 kHz (add about 10.5 dB for 500 Hz). One marker per direction per test run.</text>
+<circle class="c1 ring" cx="30" cy="78" r="5" stroke-width="2"/><text class="ts" x="42" y="82" font-size="13">K3JSJ → K3BWA</text>
+<path class="c2 ring" d="M180,72 l6,6 l-6,6 l-6,-6z" stroke-width="2"/><text class="ts" x="192" y="82" font-size="13">K3BWA → K3JSJ</text>
+<rect class="edge" x="233.8" y="104" width="49.7" height="322"/>
+<text class="ts" x="258.7" y="96" font-size="12" text-anchor="middle">Edge</text>
+<line class="g" x1="150.0" y1="104" x2="150.0" y2="426" stroke-width="1"/>
+<text class="tm" x="150.0" y="446" font-size="12" text-anchor="middle">-20</text>
+<line class="g" x1="227.6" y1="104" x2="227.6" y2="426" stroke-width="1"/>
+<text class="tm" x="227.6" y="446" font-size="12" text-anchor="middle">-15</text>
+<line class="g" x1="305.2" y1="104" x2="305.2" y2="426" stroke-width="1"/>
+<text class="tm" x="305.2" y="446" font-size="12" text-anchor="middle">-10</text>
+<line class="g" x1="382.8" y1="104" x2="382.8" y2="426" stroke-width="1"/>
+<text class="tm" x="382.8" y="446" font-size="12" text-anchor="middle">-5</text>
+<line class="g" x1="460.4" y1="104" x2="460.4" y2="426" stroke-width="1"/>
+<text class="tm" x="460.4" y="446" font-size="12" text-anchor="middle">0</text>
+<line class="g" x1="538.0" y1="104" x2="538.0" y2="426" stroke-width="1"/>
+<text class="tm" x="538.0" y="446" font-size="12" text-anchor="middle">+5</text>
+<line class="g" x1="615.7" y1="104" x2="615.7" y2="426" stroke-width="1"/>
+<text class="tm" x="615.7" y="446" font-size="12" text-anchor="middle">+10</text>
+<line class="g" x1="693.3" y1="104" x2="693.3" y2="426" stroke-width="1"/>
+<text class="tm" x="693.3" y="446" font-size="12" text-anchor="middle">+15</text>
+<line class="g" x1="770.9" y1="104" x2="770.9" y2="426" stroke-width="1"/>
+<text class="tm" x="770.9" y="446" font-size="12" text-anchor="middle">+20</text>
+<line class="g" x1="848.5" y1="104" x2="848.5" y2="426" stroke-width="1"/>
+<text class="tm" x="848.5" y="446" font-size="12" text-anchor="middle">+25</text>
+<text class="ts" x="507.0" y="478" font-size="13" text-anchor="middle">SNR in 2.5 kHz (dB)</text>
+<line class="g" x1="150" y1="136.2" x2="864" y2="136.2" stroke-width="1"/>
+<text class="tp" x="136" y="135.2" font-size="13" text-anchor="end">321 BPS</text>
+<text class="tm" x="136" y="150.2" font-size="11" text-anchor="end">speed 3</text>
+<line class="g" x1="150" y1="200.6" x2="864" y2="200.6" stroke-width="1"/>
+<text class="tp" x="136" y="199.6" font-size="13" text-anchor="end">87 BPS</text>
+<text class="tm" x="136" y="214.6" font-size="11" text-anchor="end">speed 4</text>
+<line class="g" x1="150" y1="265.0" x2="864" y2="265.0" stroke-width="1"/>
+<text class="tp" x="136" y="264.0" font-size="13" text-anchor="end">68 BPS</text>
+<text class="tm" x="136" y="279.0" font-size="11" text-anchor="end">speed 15</text>
+<line class="g" x1="150" y1="329.4" x2="864" y2="329.4" stroke-width="1"/>
+<text class="tp" x="136" y="328.4" font-size="13" text-anchor="end">31 BPS</text>
+<text class="tm" x="136" y="343.4" font-size="11" text-anchor="end">speed 103</text>
+<line class="g" x1="150" y1="393.8" x2="864" y2="393.8" stroke-width="1"/>
+<text class="tp" x="136" y="392.8" font-size="13" text-anchor="end">No connect</text>
+<text class="tm" x="136" y="407.8" font-size="11" text-anchor="end">call not heard</text>
+<line class="ax" x1="150" y1="426" x2="864" y2="426" stroke-width="1"/>
+<line class="ann" x1="384.4" y1="347.4" x2="384.4" y2="381.8" stroke-width="1"/>
+<text class="ts" x="390.4" y="379.8" font-size="12">Practical limit: no losses, ~30 s per message</text>
+<text class="ts" x="456.2" y="166.2" font-size="12" text-anchor="end">K3BWA stepped back up to 321 BPS</text>
+<line class="ann" x1="460.2" y1="160.2" x2="466.2" y2="146.2" stroke-width="1"/>
+<circle class="c1 ring" cx="823.6" cy="129.2" r="5.5" stroke-width="2"><title>K3JSJ → K3BWA, faders -3.1 dB, SNR +23.4 dB: 321 BPS</title></circle>
+<circle class="c1 ring" cx="637.4" cy="129.2" r="5.5" stroke-width="2"><title>K3JSJ → K3BWA, faders -15.1 dB, SNR +11.4 dB: 321 BPS</title></circle>
+<circle class="c1 ring" cx="589.3" cy="129.2" r="5.5" stroke-width="2"><title>K3JSJ → K3BWA, faders -18.2 dB, SNR +8.3 dB: 321 BPS</title></circle>
+<circle class="c1 ring" cx="542.7" cy="129.2" r="5.5" stroke-width="2"><title>K3JSJ → K3BWA, faders -21.2 dB, SNR +5.3 dB: 321 BPS</title></circle>
+<circle class="c1 ring" cx="493.0" cy="258.0" r="5.5" stroke-width="2"><title>K3JSJ → K3BWA, faders -24.4 dB, SNR +2.1 dB: 68 BPS</title></circle>
+<circle class="c1 ring" cx="493.0" cy="193.6" r="5.5" stroke-width="2"><title>K3JSJ → K3BWA, faders -24.4 dB, SNR +2.1 dB: 87 BPS</title></circle>
+<circle class="c1 ring" cx="396.8" cy="322.4" r="5.5" stroke-width="2"><title>K3JSJ → K3BWA, faders -30.6 dB, SNR -4.1 dB: 31 BPS</title></circle>
+<circle class="c1 ring" cx="306.8" cy="322.4" r="5.5" stroke-width="2"><title>K3JSJ → K3BWA, faders -36.4 dB, SNR -9.9 dB: 31 BPS</title></circle>
+<circle class="c1 ring" cx="283.5" cy="322.4" r="5.5" stroke-width="2"><title>K3JSJ → K3BWA, faders -37.9 dB, SNR -11.4 dB: 31 BPS</title></circle>
+<circle class="c1 ring" cx="258.7" cy="386.8" r="5.5" stroke-width="2"><title>K3JSJ → K3BWA, faders -39.5 dB, SNR -13.0 dB: call not detected</title></circle>
+<circle class="c1 ring" cx="210.5" cy="386.8" r="5.5" stroke-width="2"><title>K3JSJ → K3BWA, faders -42.6 dB, SNR -16.1 dB: call not detected</title></circle>
+<path class="c2 ring" d="M798.8,136.2 l7,7 l-7,7 l-7,-7z" stroke-width="2"><title>K3BWA → K3JSJ, faders -3.1 dB, SNR +21.8 dB: 321 BPS</title></path>
+<path class="c2 ring" d="M612.5,136.2 l7,7 l-7,7 l-7,-7z" stroke-width="2"><title>K3BWA → K3JSJ, faders -15.1 dB, SNR +9.8 dB: 321 BPS</title></path>
+<path class="c2 ring" d="M564.4,136.2 l7,7 l-7,7 l-7,-7z" stroke-width="2"><title>K3BWA → K3JSJ, faders -18.2 dB, SNR +6.7 dB: 321 BPS</title></path>
+<path class="c2 ring" d="M517.9,136.2 l7,7 l-7,7 l-7,-7z" stroke-width="2"><title>K3BWA → K3JSJ, faders -21.2 dB, SNR +3.7 dB: 321 BPS</title></path>
+<path class="c2 ring" d="M468.2,265.0 l7,7 l-7,7 l-7,-7z" stroke-width="2"><title>K3BWA → K3JSJ, faders -24.4 dB, SNR +0.5 dB: 68 BPS</title></path>
+<path class="c2 ring" d="M468.2,200.6 l7,7 l-7,7 l-7,-7z" stroke-width="2"><title>K3BWA → K3JSJ, faders -24.4 dB, SNR +0.5 dB: 87 BPS</title></path>
+<path class="c2 ring" d="M468.2,136.2 l7,7 l-7,7 l-7,-7z" stroke-width="2"><title>K3BWA → K3JSJ, faders -24.4 dB, SNR +0.5 dB: 321 BPS</title></path>
+<path class="c2 ring" d="M372.0,329.4 l7,7 l-7,7 l-7,-7z" stroke-width="2"><title>K3BWA → K3JSJ, faders -30.6 dB, SNR -5.7 dB: 31 BPS</title></path>
+<path class="c2 ring" d="M281.9,329.4 l7,7 l-7,7 l-7,-7z" stroke-width="2"><title>K3BWA → K3JSJ, faders -36.4 dB, SNR -11.5 dB: 31 BPS</title></path>
+<path class="c2 ring" d="M258.7,329.4 l7,7 l-7,7 l-7,-7z" stroke-width="2"><title>K3BWA → K3JSJ, faders -37.9 dB, SNR -13.0 dB: 31 BPS</title></path>
+<path class="c2 ring" d="M233.8,393.8 l7,7 l-7,7 l-7,-7z" stroke-width="2"><title>K3BWA → K3JSJ, faders -39.5 dB, SNR -14.6 dB: call not detected</title></path>
+<path class="c2 ring" d="M185.7,393.8 l7,7 l-7,7 l-7,-7z" stroke-width="2"><title>K3BWA → K3JSJ, faders -42.6 dB, SNR -17.7 dB: call not detected</title></path>
+</svg>
