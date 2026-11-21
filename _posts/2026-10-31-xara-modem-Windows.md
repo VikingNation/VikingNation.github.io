@@ -3,7 +3,7 @@ layout: post
 title: "Release: XARA modem and Windows port"
 date: 2026-10-31
 categories: [software]
-tags: [software]
+tags: [software, vara, xara]
 ---
 
 On October 24, 2026, a developer released a VARA-compatible HF/VHF modem for Linux called Xara. See the [Xara Release post on Reddit](https://www.reddit.com/r/HamRadio/comments/1xecpml/xara_a_varacompatible_hfvhf_modem_for_linux/)

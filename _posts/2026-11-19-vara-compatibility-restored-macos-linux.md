@@ -2,8 +2,8 @@
 layout: post
 title: "VARA compatibility restored, plus native macOS and Linux versions announced"
 date: 2026-11-19 17:46:22 -0500
-categories: [software]
-tags: [software, vara, winlink, varac, macos, linux]
+categories: [hamradio, vara]
+tags: [vara, winlink, varac, macos, linux]
 description: "VARA HF v4.9.2 and VARA FM v4.4.2 are out and are compatible with older versions, so the January 1, 2027 compatibility break no longer applies. The developer also announced native macOS and Linux VARA versions in the works for Winlink and VarAC."
 image:
   path: /images/2026/vara-compatibility-restored-macos-linux/vara-compatibility-restored-macos-linux.png

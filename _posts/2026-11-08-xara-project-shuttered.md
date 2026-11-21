@@ -2,8 +2,8 @@
 layout: post
 title: "XARA Project shuttered"
 date: 2026-11-08
-categories: [software]
-tags: [software]
+categories: [hamradio, vara]
+tags: [vara, xara]
 description: "Around 2300 UTC on Sunday, November 8th, x0rro, the developer of XARA, shut down the project and removed all source code from the GitHub repository."
 image:
   path: /images/2026/xara-project-shuttered/xara-project-shuttered.png

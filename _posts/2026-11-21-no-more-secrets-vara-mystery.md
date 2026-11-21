@@ -2,8 +2,8 @@
 layout: post
 title: "No More Secrets: the VARA mystery continues"
 date: 2026-11-21 13:16:49 -0500
-categories: [software]
-tags: [software, vara, varac, xara, nomoresecrets]
+categories: [hamradio, vara]
+tags: [vara, varac, xara, nomoresecrets]
 description: "An anonymous group calling itself \"No More Secrets\" has released what it says is the full specification of the VARA modem, the latest twist in the VARA saga."
 image:
   path: /images/2026/no-more-secrets-vara-mystery/no-more-secrets-vara-mystery.png

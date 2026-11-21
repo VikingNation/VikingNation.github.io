@@ -2,8 +2,8 @@
 layout: post
 title: "How many Winlink RMS gateways the VARA 1/1/2027 change could affect"
 date: 2026-11-14
-categories: [software]
-tags: [software, vara, winlink, rms]
+categories: [hamradio, vara]
+tags: [vara, winlink, rms]
 description: "Of 1,588 Winlink RMS stations in the public channel lists, 1,072 offer VARA and 360 offer nothing but VARA. These are the stations a VARA version mismatch could affect once the January 1, 2027 compatibility change takes effect."
 image:
   path: /images/2026/vara-rms/vara-rms-movie-final-frame.jpg

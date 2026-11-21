@@ -2,8 +2,8 @@
 layout: post
 title: "VARA WARS! Open-source and closed-source software in ham radio"
 date: 2026-11-19 17:11:28 -0500
-categories: [software]
-tags: [software, vara, xara, varac, winlink, opensource, linux, part97]
+categories: [hamradio, vara]
+tags: [vara, xara, varac, winlink, opensource, linux, part97]
 description: "A longer video on open-source and closed-source software in ham radio: what happened with XARA and VARA, what Part 97 requires for public documentation, and what it all means for VarAC and Winlink users."
 image:
   path: /images/2026/vara-wars/vara-wars.png

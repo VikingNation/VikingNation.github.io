@@ -2,8 +2,8 @@
 layout: post
 title: "VARA developer breaks compatibility 1/1/2027"
 date: 2026-11-11
-categories: [software]
-tags: [software, vara, winlink]
+categories: [hamradio, vara]
+tags: [vara, winlink]
 description: "VARA HF 4.9.1 and VARA FM 4.4.1 were released on November 4, 2026 with no information. On January 1, 2027 the modems will no longer work with past revisions unless users upgrade."
 image:
   path: /images/2026/vara-breaks-compatibility-2027/vara-breaks-compatibility-2027.png

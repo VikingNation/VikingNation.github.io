@@ -2,7 +2,7 @@
 layout: post
 title: Target Stations - August 2025 MDC Digital EmComm Challenge
 date: 2025-08-06
-categories: [vara]
+categories: [hamradio, events]
 tags: [ares, vara, mdc-emcomm]
 ---
 

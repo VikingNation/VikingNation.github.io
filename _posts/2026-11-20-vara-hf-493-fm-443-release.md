@@ -2,8 +2,8 @@
 layout: post
 title: "VARA update: HF 4.9.3 and FM 4.4.3 released"
 date: 2026-11-20 09:33:00 -0500
-categories: [software]
-tags: [software, vara, winlink, varac]
+categories: [hamradio, vara]
+tags: [vara, winlink, varac]
 description: "The VARA HF 4.9.2 and FM 4.4.2 releases meant to restore compatibility did not connect to older versions in operator testing. VARA HF 4.9.3 and FM 4.4.3 followed on November 20."
 image:
   path: /images/2026/vara-hf-493-fm-443-release/vara-hf-493-fm-443-release.png

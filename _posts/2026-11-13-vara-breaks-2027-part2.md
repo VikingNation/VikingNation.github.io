@@ -2,8 +2,8 @@
 layout: post
 title: "VARA breaks 2027, part 2: what happens when one station upgrades"
 date: 2026-11-13 22:27:12 -0500
-categories: [software]
-tags: [software, vara, varac, winlink]
+categories: [hamradio, vara]
+tags: [vara, varac, winlink]
 description: "A demonstration of what happens on the air when one station has upgraded to the new VARA release and the other has not."
 image:
   path: /images/2026/vara-breaks-2027-part2/vara-breaks-2027-part2.png

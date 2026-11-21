@@ -3,7 +3,7 @@ layout: post
 title: "Update: Xara Modem Running on Windows"
 date: 2026-10-31 12:00:00 -0400
 categories: [software]
-tags: [software, xara, varac, flrig, ic-7300]
+tags: [software, vara, xara, varac, flrig, ic-7300]
 ---
 
 I have published a new YouTube video demonstrating Xara running on Windows with VarAC on 40 meters using my IC-7300. Watch it here: <a href="https://youtu.be/JTrr5qSqTOc" target="_blank" rel="noopener noreferrer">Xara on Windows with VarAC on 40 meters</a>.

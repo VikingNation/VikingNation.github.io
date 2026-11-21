@@ -2,8 +2,8 @@
 layout: post
 title: "Mercury and VarAC testing, part 1: where the link stops working"
 date: 2026-11-17
-categories: [software]
-tags: [software, mercury, varac, vara, hf, digital-modes]
+categories: [hamradio, vara]
+tags: [mercury, varac, vara, hf, digital-modes]
 description: "I ran VarAC with two Mercury HF modems on an audio loopback bench, adding fixed noise and lowering the signal until the link failed. Mercury connected down to about -11 to -13 dB SNR in 2.5 kHz. The tests also found four problems worth fixing."
 image:
   path: /images/2026/mercury-varac-testing/mercury-snr-vs-rate.png

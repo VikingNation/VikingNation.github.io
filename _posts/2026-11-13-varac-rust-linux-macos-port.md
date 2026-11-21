@@ -2,8 +2,8 @@
 layout: post
 title: "VarAC ported to Rust, with Linux and macOS versions underway"
 date: 2026-11-13 23:47:39 -0500
-categories: [software]
-tags: [software, varac, vara, linux, macos]
+categories: [hamradio, vara]
+tags: [varac, vara, linux, macos]
 description: "The VarAC developer announced that VarAC has been ported to Rust and that Linux and macOS versions are in the works."
 image:
   path: /images/2026/varac-rust-linux-macos-port/varac-rust-linux-macos-port.png
