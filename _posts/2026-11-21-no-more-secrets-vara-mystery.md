@@ -40,3 +40,8 @@ Watch the video and add your comments:
 Be sure to subscribe for further updates on this ham radio mystery.
 
 Jason, K3JSJ
+
+## References
+
+- VARA-MODEM group discussion on groups.io: <https://groups.io/g/VARA-MODEM/topic/complete_documentation_of/122380838>
+- Video: <https://youtu.be/wX48lt14xr8>
