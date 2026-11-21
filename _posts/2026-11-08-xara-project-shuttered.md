@@ -5,6 +5,9 @@ date: 2026-11-08
 categories: [software]
 tags: [software]
 description: "Around 2300 UTC on Sunday, November 8th, x0rro, the developer of XARA, shut down the project and removed all source code from the GitHub repository."
+image:
+  path: /images/2026/xara-project-shuttered/xara-project-shuttered.png
+  alt: "Breaking News video thumbnail: metal XARA letters on a table crumbling into streams of dust, under the words \"Project XARA Discontinued!\""
 ---
 
 Around 2300 UTC on Sunday, November 8th, x0rro, the developer of XARA, shut down the project and removed all source code from the GitHub repository. XARA, the VARA-compatible HF/VHF modem for Linux, had been released only two weeks earlier and drew a lot of interest from the ham radio community. Full details are in the following YouTube video.
