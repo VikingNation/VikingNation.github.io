@@ -6,8 +6,8 @@ categories: [hamradio, vara]
 tags: [vara, xara, varac, winlink, opensource, linux, part97]
 description: "A longer video on open-source and closed-source software in ham radio: what happened with XARA and VARA, what Part 97 requires for public documentation, and what it all means for VarAC and Winlink users."
 image:
-  path: /images/2026/vara-wars/vara-wars.png
-  alt: "VARA WARS! title card: two duelists, one with a rapier and one with a staff, face off in a field of antenna towers above the words Open Source vs Close Source."
+  path: /images/2026/vara-wars/vara-wars-bumper.png
+  alt: "VARA WARS! title card: a masked swordsman in black with a rapier faces a man with a staff among antenna towers, under a rainbow audio waveform, with the words Open Source vs Closed Source and a K3JSJ badge."
 ---
 
 In a time not so long ago, in a place that is near...
