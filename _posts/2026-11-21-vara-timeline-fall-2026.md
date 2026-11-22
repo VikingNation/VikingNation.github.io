@@ -46,7 +46,7 @@ description: "Key events in the VARA space, from the release of the open-source 
 **November 8 onward: community debate opens on VARA or open-source alternatives.** Widespread discussion on YouTube, Reddit, the Winlink Programs forum, Groups.io and other platforms about the community adopting alternative modems to VARA. Modems discussed include Mercury, Data2G, Aether and Modem73.
 - [SCARCS: Mercury as a VARA alternative](https://scarcs.ca/blog/2026-11-10/mercury_vara_alternative){:target="_blank" rel="noopener noreferrer"}
 
-**November 11: K3JSJ, "VARA Breaks 2027, Part 1".** Shows that VARA HF 4.9.1 and FM 4.4.1 stop working with earlier versions on January 1, 2027.
+**November 11: K3JSJ, "VARA Breaks 2027, Part 1".** Highlights that VARA HF 4.9.1 and FM 4.4.1 will stop working with earlier revisions on January 1, 2027. The blog post highlights past times the VARA developer has broken compatibility.
 - [K3JSJ: VARA Breaks 2027, Part 1](https://www.youtube.com/watch?v=k6nM-s64TcI){:target="_blank" rel="noopener noreferrer"} · [Blog post]({% post_url 2026-11-11-vara-breaks-compatibility-2027 %})
 
 **November 12: The Tech Prepper tests the break.** VARA HF 4.9.1 links with VARA 4.8.9 while the clock reads 2026, and fails once the clock is set to January 1, 2027.
